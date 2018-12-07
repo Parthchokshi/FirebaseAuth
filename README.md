@@ -5,5 +5,5 @@ Firebase Authentication in React Native app
 
 - Clone the repo
 - `npm install`
-- `npm start'
+- `npm start`
 - `npm run ios` or `npm run android`
